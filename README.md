@@ -1,0 +1,2 @@
+# HackerRankSolutionOfJava
+java solution
